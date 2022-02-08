@@ -4,8 +4,8 @@ def read_file(filepath):
     color_codes, rgb, seg = f['color_codes'][:], f['rgb'][:], f['seg'][:]
     return color_codes, rgb, seg
 # modify the file path when using
-color_codes_train, rgb_train, seg_train = read_file('C:/Users/a/Desktop/mit program/assignment/team project/Lab2_train_data.h5')
-color_codes_test, rgb_test, seg_test = read_file('C:/Users/a/Desktop/mit program/assignment/team project/Lab2_test_data.h5')
+color_codes_train, rgb_train, seg_train = read_file('')
+color_codes_test, rgb_test, seg_test = read_file('')
 
 
 
