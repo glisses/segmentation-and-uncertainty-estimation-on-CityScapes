@@ -12,7 +12,8 @@
 
 
 
-Implement a network for semantic segmentation in image data, and also generate estimates of aleatoric and epistemic uncertainties associated with the segmentation. For more information on the dataset please refer to: [CityScapes dataset](https://www.cityscapes-dataset.com/). 
+Implement a network for semantic segmentation in image data, and also generate estimates of aleatoric and epistemic uncertainties associated with the segmentation. 
+For more information on the dataset please refer to: [CityScapes dataset](https://www.cityscapes-dataset.com/). 
 
 This is also a team project for Deep Learning for Computer Vision course, lectured by Prof. Alexander Amini.
 
