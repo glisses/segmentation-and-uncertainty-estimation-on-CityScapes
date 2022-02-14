@@ -8,8 +8,7 @@
       <img src="https://img.shields.io/github/license/glisses/segmentation-and-uncertainty-estimation-on-CityScapes?label=License&logo=GNU&style=flat-square"/>
 </p>
 </div>
-
-
+​               
 
 Implement **SegNet** for semantic segmentation with **Pytorch**, and also generate estimates of **aleatoric and epistemic uncertainties** associated with the segmentation. 
 For more information on the dataset please refer to: [CityScapes dataset](https://www.cityscapes-dataset.com/). 
