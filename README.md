@@ -22,6 +22,7 @@ This is also a team project for Deep Learning for Computer Vision course, lectur
 
 - [Install](#install)
 - [Usage](#usage)
+- [Segmentation Results](#Segmentation Results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -54,6 +55,12 @@ Downloaded `vgg16_bn-6c64b313.pth` from https://download.pytorch.org/models/vgg1
 ### 3. Training and Testing
 
 Ignore the  first 3 cells in `main_segnet_v7.ipynb` if you're not using Google Colab.
+
+
+
+## Segmentation Results
+
+![c54843643a80e9cfd0dcc06b2c03a4b.png](https://s2.loli.net/2022/02/15/HjLGsFt6iZkKxz8.png)
 
 
 
