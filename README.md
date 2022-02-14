@@ -11,8 +11,7 @@
 
 
 
-                  
-Implement a network for semantic segmentation in image data, and also generate estimates of aleatoric and epistemic uncertainties associated with the segmentation. 
+Implement **SegNet** for semantic segmentation with **Pytorch**, and also generate estimates of **aleatoric and epistemic uncertainties** associated with the segmentation. 
 For more information on the dataset please refer to: [CityScapes dataset](https://www.cityscapes-dataset.com/). 
           
 This is also a team project for Deep Learning for Computer Vision course, lectured by Prof. Alexander Amini.
@@ -23,7 +22,6 @@ This is also a team project for Deep Learning for Computer Vision course, lectur
 
 - [Install](#install)
 - [Usage](#usage)
-- [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,7 +33,33 @@ This is also a team project for Deep Learning for Computer Vision course, lectur
 git clone git@github.com:glisses/segmentation-and-uncertainty-estimation-on-CityScapes.git
 ```
 
-​                        
+​                   
+
+## Usage
+
+### 1. Requirements
+
+``` shell 
+pip install -r requirements.txt   
+```
+
+  
+
+### 2. Pre-train Weights
+
+Downloaded `vgg16_bn-6c64b313.pth` from https://download.pytorch.org/models/vgg16_bn-6c64b313.pth and put it in the same folder as `main_segnet_v7.ipynb`.
+
+
+
+### 3. Training and Testing
+
+Ignore the  first 3 cells in `main_segnet_v7.ipynb` if you're not using Google Colab.
+
+
+
+## Contributing
+
+
 
 ## License
 
