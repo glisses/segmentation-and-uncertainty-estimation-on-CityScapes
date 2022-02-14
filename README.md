@@ -21,7 +21,7 @@ This is also a team project for Deep Learning for Computer Vision course, lectur
 
 - [Install](#install)
 - [Usage](#usage)
-- [Segmentation Results](#Segmentation Results)
+- [Results](#Results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -57,7 +57,7 @@ Ignore the  first 3 cells in `main_segnet_v7.ipynb` if you're not using Google C
 
 
 
-## Segmentation Results
+## Results
 
 ![c54843643a80e9cfd0dcc06b2c03a4b.png](https://s2.loli.net/2022/02/15/HjLGsFt6iZkKxz8.png)
 
