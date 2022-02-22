@@ -6,6 +6,7 @@
     </a>
     <a href="https://github.com/glisses/segmentation-and-uncertainty-estimation-on-CityScapes/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/glisses/segmentation-and-uncertainty-estimation-on-CityScapes?label=License&logo=GNU&style=flat-square"/>
+    </a>
 </p>
 </div>
 ​             
